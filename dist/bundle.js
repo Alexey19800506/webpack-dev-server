@@ -1,0 +1,1 @@
+(()=>{"use strict";(({name:e,location:t})=>{const o=document.querySelector(".profile__name"),n=document.querySelector(".profile__location");o.textContent=e,n.textContent=`from ${t}`})({name:"Tom",location:"The World"}),alert("App is ready")})();
